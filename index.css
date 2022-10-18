@@ -7,3 +7,7 @@
 }
 
 </style>
+
+.menu li{
+   display:inline-block; 
+}
